@@ -1,6 +1,6 @@
 # Gravity Rush 2 .evd Editor
 
-A lightweight PyQt5-based GUI tool for browsing, editing, and exporting Sony GR2 `.evd` files.
+A lightweight PyQt5-based GUI tool for browsing, editing, and exporting Japan Studio's Gravity Rush 2 `.evd` files.
 
 ---
 
